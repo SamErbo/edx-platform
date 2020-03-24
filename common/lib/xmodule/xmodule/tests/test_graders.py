@@ -267,7 +267,7 @@ class GraderTest(unittest.TestCase):
             },
             {
                 'type': "Lab",
-                'min_count': 7,
+                'min_count': '7',
                 'drop_count': 3,
                 'category': "Labs",
                 'weight': 0.25
